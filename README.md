@@ -3,6 +3,26 @@ INGENIERO DARWIN AGUIÑO
 CALI COLOMBIA
 PRUEBA DE CONOCIMIENTO
 
+
+NOTAS: 
+1. En el archivo de appsetting debera colocar la url de la conexion dependiendo del tipo en el ejemplo se realizo
+   como si fuera de manera local el cual lo hice con SQL server.
+   en la variable : DefaultConnection  
+2. para poder realizar y hacer uso de correo en mi caso se uso el de outlook, con el mismo puerto para gmail
+   configurar los datos SMTP: 
+1
+    "Smtp": {
+    "Host": "smtp.office365.com",
+    "Port": "587",
+    "User": "colocarUsuario@xxxx.com",
+    "Password": "xxxxx!",
+    "From": "colocarUsuario@xxxxx.com"
+  }
+
+3. Para poder ver mejor el contenido del readme darle en la opcion de y no modo texto. 
+
+SOLUCIONES A LAS PREGUNTAS DE LA PRUEBA TECNICA: 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SECCION 1 : 
 ______________________________________________________________________________________________________________________________________________________________________
