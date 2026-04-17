@@ -19,9 +19,11 @@ NOTAS:
     "From": "colocarUsuario@xxxxx.com"
   }
 
-3. Para poder ver mejor el contenido del readme darle en la opcion de y no modo texto. 
+3. Para poder ver mejor el contenido del readme darle en la opcion de RAW y no modo texto. 
+4. El archivo SQL se encuentra en la Carpeta DABASE con el nombre PRUEBATECNICA.sql 
 
-SOLUCIONES A LAS PREGUNTAS DE LA PRUEBA TECNICA: 
+ 
++++ SOLUCIONES A LAS PREGUNTAS DE LA PRUEBA TECNICA +++ 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SECCION 1 : 
